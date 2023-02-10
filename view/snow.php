@@ -8,7 +8,7 @@
 
 // tampon de flux stocké en mémoire
 ob_start();
-$title="RentASnow - Perdu";
+$title="RentASnow - Snows";
 ?>
 
 <div class="span12" id="divMain">
