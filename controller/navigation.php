@@ -1,3 +1,4 @@
+
 <?php
 
 function home(){
@@ -7,3 +8,8 @@ function home(){
 function lost(){
     require "view/lost.php";
 }
+function users() {
+    require "view/login.php";
+}
+
+
